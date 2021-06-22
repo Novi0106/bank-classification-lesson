@@ -11,7 +11,7 @@
 ## Problem statement
 Our bank data bank gives us an overview over transactions of a Czech bank in the 90s, including the status of loans i.e. if they are good or bad.
 
-We want to understans whether with the available data we can confidently predict if a new customer will fall into the bad loan bucket.
+We want to understans whether with the available data we can confidently predict if a new customer will fall into the bad loan bucket. We will do so by using available python libraries to run a Logistic Regression model on the available data.
 
 ## Data
 

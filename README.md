@@ -3,7 +3,9 @@
 <img src = "/images/doggos.png" width = 900 height = 600>
 
 ## Table of contents
-
+- [Problem Statement](https://github.com/Novi0106/bank-classification-lesson/blob/main/README.md#problem-statement)
+- [Data](https://github.com/Novi0106/bank-classification-lesson/blob/main/README.md#data)
+- [Approach](https://github.com/Novi0106/bank-classification-lesson/blob/main/README.md#approach)
 
 
 ## Problem statement
